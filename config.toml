@@ -1,0 +1,15 @@
+baseURL = "https://nav.czhweb.cn/"
+languageCode = "zh-CN"
+title = "三场五幕导航站"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = "三场五幕导航站"
+[params]
+  author = "czh"
+  description = "三场五幕"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
